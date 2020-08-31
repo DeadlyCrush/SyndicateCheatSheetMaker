@@ -13,7 +13,7 @@ It is planned to can use in the overlay of the deadlytrade after complete the sh
 
 https://www.youtube.com/watch?v=AhXvOdWHDq8
 
-[![(DeadlyTrade) Prototype :: Syndicate cheat sheet maker prototype. but there contains only essential feature.](https://postfiles.pstatic.net/MjAyMDA4MzFfMjQ1/MDAxNTk4ODAyNDQ0MDA2.lL0Ud3K1fXbWeshiq4KFAUFHeyWl9pBOFm11XB2TW34g.Ij4CusKtmJ_-BbFFMu3_Ez-d7J3uMtcVrgyiDrJWD38g.PNG.eocsdev2/PathOfSyndicate_2020.08.31_001016.png?type=w773)](https://www.youtube.com/watch?v=AhXvOdWHDq8 "(DeadlyTrade) Prototype :: Syndicate cheat sheet maker prototype. but there contains only essential feature.")
+[![(DeadlyTrade) Prototype :: Syndicate cheat sheet maker prototype. but there contains only essential feature.](https://media.discordapp.net/attachments/672712476017557512/749821201366384640/unknown.png)](https://www.youtube.com/watch?v=AhXvOdWHDq8 "(DeadlyTrade) Prototype :: Syndicate cheat sheet maker prototype. but there contains only essential feature.")
 
 In the video clip, I relaunched for take screenshot and that was my mistake.
 You can continuous, make and modify Syndicate cheat sheets after launched and take those screenshots.
