@@ -6,7 +6,7 @@ Syndicate cheat sheet maker prototype. but there contains only essential feature
 ## Download
 It just prototype.
 Pre-release : https://github.com/DeadlyCrush/SyndicateCheatSheetMaker/releases/download/v0.1.0.2-poc/SyndicateCheatsheetMaker_Prototype1st.zip
-(Google Drive : https://drive.google.com/file/d/10R-p...  )
+
 ## Purporse
 It is planned to can use in the overlay of the deadlytrade after complete the sheet and take screenshots.
 
