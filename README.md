@@ -4,7 +4,9 @@ Syndicate cheat sheet maker prototype. but there contains only essential feature
 
 신디케이트 시트 메이커 프로토타입입니다. 프로토타입이라서 기본적인 요소만 있습니다.
 ## Download
-It just prototype. https://drive.google.com/file/d/10R-p...  
+It just prototype.
+Pre-release : https://github.com/DeadlyCrush/SyndicateCheatSheetMaker/releases/download/v0.1.0.2-poc/SyndicateCheatsheetMaker_Prototype1st.zip
+(Google Drive : https://drive.google.com/file/d/10R-p...  )
 ## Purporse
 It is planned to can use in the overlay of the deadlytrade after complete the sheet and take screenshots.
 
