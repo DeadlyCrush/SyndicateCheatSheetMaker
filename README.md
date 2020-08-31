@@ -1,4 +1,4 @@
-# SyndicateCheatSheetMaker
+# Syndicate Cheat Sheet Maker
 ## (Prototype ::) for DeadlyTrade external function.
 Syndicate cheat sheet maker prototype. but there contains only essential feature.
 
