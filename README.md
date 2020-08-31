@@ -1,5 +1,5 @@
 # SyndicateCheatSheetMaker
-## (Prototype ::)
+## (Prototype ::) for DeadlyTrade external function.
 Syndicate cheat sheet maker prototype. but there contains only essential feature.
 
 신디케이트 시트 메이커 프로토타입입니다. 프로토타입이라서 기본적인 요소만 있습니다.
