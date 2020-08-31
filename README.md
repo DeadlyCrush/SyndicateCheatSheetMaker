@@ -3,6 +3,14 @@
 Syndicate cheat sheet maker prototype. but there contains only essential feature.
 
 신디케이트 시트 메이커 프로토타입입니다. 프로토타입이라서 기본적인 요소만 있습니다.
+
+I didn't and couldn't make it as my planned, because it is prototype.
+But, It will be supported various resolution and web-gl, also a few convenience features.
+I guess it will be finished before next league start if my company is not busy too much.
+
+프로토타입인지라, 계획했던것만큼 만들지 못했고 만들 수도 없었습니다.
+회사가 너무 바쁘지 않으면, 아마도 다음 리그 시작전에는 몇가지 편의 기능을 포함해서 다양한 해상도 및 Web-GL 지원이 가능할것으로 생각하고 있습니다.
+
 ## Download
 It just prototype.
 Pre-release : https://github.com/DeadlyCrush/SyndicateCheatSheetMaker/releases/download/v0.1.0.2-poc/SyndicateCheatsheetMaker_Prototype1st.zip
@@ -11,6 +19,17 @@ Pre-release : https://github.com/DeadlyCrush/SyndicateCheatSheetMaker/releases/d
 It is planned to can use in the overlay of the deadlytrade after complete the sheet and take screenshots.
 
 시트를 완성하고 스크린샷을 찍어서 데들리트레이드의 오버레이에 사용할 수 있도록 계획되었습니다.
+
+The most important thing when I planning syndicated cheat sheet maker was to make user's own sheets.
+Because each user has different grade(valuable) of the members.
+Of course, some users might like a standard sheet, but I think it's useful to make a user's own cheat sheet that user think is useful,
+also users can make a variety of their own cheat sheets.
+
+신디케이트 시트 메이커를 기획할 때 가장 중요하게 생각한 것은 자신만의 시트를 만드는 것이었습니다.
+왜냐하면 유저는 각자가 생각하는 멤버들의 가치가 다르기 때문입니다.
+물론 어떤 유저는 획힐화된 정답표를 좋아할지도 모르지만 제 생각에는 유저 개인이 생각하는 표를 만드는 것이 유용하다고 판단했습니다.
+그리고 사용자가 자신의 시트를 다양하게 만들 수 있습니다.
+
 ## Sample Video clip
 
 https://www.youtube.com/watch?v=AhXvOdWHDq8
